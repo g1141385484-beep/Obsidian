@@ -1,0 +1,2 @@
+# Obsidian
+Obsidian learn note
